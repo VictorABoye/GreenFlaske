@@ -1,2 +1,2 @@
 # GreenFlaske
-![GreenFlaske](green-flaske.jpg)
+![GreenFlaske](green-flaske.gif)
